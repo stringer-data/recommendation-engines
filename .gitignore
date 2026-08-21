@@ -1,0 +1,16 @@
+# Data — download instructions are in each case study's data/raw/SOURCE_NOTE.md
+**/data/raw/*.csv
+**/data/raw/*.xlsx
+**/data/raw/*.zip
+**/data/raw/*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# macOS
+.DS_Store
