@@ -1,4 +1,4 @@
-# 03 — Inventory-Aware E-Commerce Recommendations
+# 04 — Inventory-Aware E-Commerce Recommendations
 
 ## Method
 Two-tower retrieval model, re-ranked with an explicit inventory/availability
