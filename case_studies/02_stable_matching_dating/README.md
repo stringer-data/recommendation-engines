@@ -1,4 +1,4 @@
-# 03 — Stable Matching: Speed Dating
+# 02 — Stable Matching: Speed Dating
 
 ## Method
 Gale-Shapley deferred acceptance (stable matching), compared against
